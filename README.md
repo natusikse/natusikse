@@ -10,10 +10,6 @@ I am especially interested in building reliable AI integrations that connect lan
 
 An AI integration layer for simulated manufacturing and logistics operations, built with Python and the Model Context Protocol.
 
-### [English Is Not a Context-Free Language](https://github.com/natusikse/projectTheoryOfAutomata)
-
-A Python coursework project exploring finite automata, formal languages, and a simplified computational interpretation of James Higginbotham’s 1984 paper *English Is Not a Context-Free Language*.
-
 Key features:
 
 * MCP tools for equipment, inventory, and production-order monitoring
@@ -22,6 +18,10 @@ Key features:
 * Source citations and safe refusal when evidence is unavailable
 * Automated retrieval and integration tests
 * CI on Python 3.11 and 3.13 with GitHub Actions
+
+### [English Is Not a Context-Free Language](https://github.com/natusikse/projectTheoryOfAutomata)
+
+A Python coursework project exploring finite automata, formal languages, and a simplified computational interpretation of James Higginbotham’s 1984 paper *English Is Not a Context-Free Language*.
 
 [![CI](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml)
 
