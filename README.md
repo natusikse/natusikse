@@ -21,6 +21,20 @@ Key features:
 
 [![CI](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml)
 
+### [Self-Balancing Tree Benchmark](https://github.com/natusikse/self-balancing-tree-benchmark)
+
+A reproducible C++ benchmarking project comparing Binary Search, AVL, and Splay Trees under ordered, randomized, and locality-focused access workloads.
+
+Key features:
+
+- deterministic benchmarks with uniform and hot-key access patterns
+- Splay Tree implementation with zig, zig-zig, and zig-zag rotations
+- automated correctness tests with CTest
+- portable CMake build configuration
+- cross-compiler CI with GCC and Clang
+- CSV result export and performance visualization
+- documented analysis of balancing and temporal locality
+
 ### [English Is Not a Context-Free Language](https://github.com/natusikse/projectTheoryOfAutomata)
 
 A Python coursework project exploring finite automata, formal languages, and a simplified computational interpretation of James Higginbotham’s 1984 paper *English Is Not a Context-Free Language*.
