@@ -47,5 +47,5 @@ Key features:
 
 ## Contact
 
-* Email: [natasadeputat@gmail.com](mailto:nevseevadm@gmail.com)
+* Email: [nevseevadm@gmail.com(mailto:nevseevadm@gmail.com)
 * Location: Magdeburg, Germany
