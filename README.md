@@ -4,11 +4,15 @@ I am a B.Sc. Bilingual Informatics student at Otto von Guericke University Magde
 
 I am especially interested in building reliable AI integrations that connect language models with real data, services, and business workflows.
 
-## Featured Project
+## Featured Projects
 
 ### [Manufacturing MCP Copilot](https://github.com/natusikse/manufacturing-mcp-copilot)
 
 An AI integration layer for simulated manufacturing and logistics operations, built with Python and the Model Context Protocol.
+
+### [English Is Not a Context-Free Language](https://github.com/natusikse/projectTheoryOfAutomata)
+
+A Python coursework project exploring finite automata, formal languages, and a simplified computational interpretation of James Higginbotham’s 1984 paper *English Is Not a Context-Free Language*.
 
 Key features:
 
