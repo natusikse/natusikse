@@ -19,11 +19,12 @@ Key features:
 * Automated retrieval and integration tests
 * CI on Python 3.11 and 3.13 with GitHub Actions
 
+[![CI](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml)
+
 ### [English Is Not a Context-Free Language](https://github.com/natusikse/projectTheoryOfAutomata)
 
 A Python coursework project exploring finite automata, formal languages, and a simplified computational interpretation of James Higginbotham’s 1984 paper *English Is Not a Context-Free Language*.
 
-[![CI](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml)
 
 ## Technologies
 
