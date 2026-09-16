@@ -36,10 +36,21 @@ Key features:
 - cross-compiler CI with GCC and Clang
 - CSV result export and performance visualization
 
-### [English Is Not a Context-Free Language](https://github.com/natusikse/projectTheoryOfAutomata)
+### [Formal Languages and Automata](https://github.com/natusikse/projectTheoryOfAutomata)
 
-A Python coursework project exploring finite automata, formal languages, and a simplified computational interpretation of James Higginbotham’s 1984 paper *English Is Not a Context-Free Language*.
+[![Python CI](https://github.com/natusikse/projectTheoryOfAutomata/actions/workflows/ci.yml/badge.svg)](https://github.com/natusikse/projectTheoryOfAutomata/actions/workflows/ci.yml)
 
+A Python exploration of formal languages, finite automata, and selected computational patterns inspired by James Higginbotham's paper *English Is Not a Context-Free Language*.
+
+Key features:
+
+- bounded generation of artificial English-like sentence patterns
+- deterministic and nondeterministic finite automata
+- epsilon closures and word recognition
+- NFA-to-DFA conversion
+- graph, tree, and language-generation exercises
+- automated syntax checks with Python 3.10 and 3.13
+- documented academic scope and limitations
 
 ## Technologies
 
@@ -67,5 +78,5 @@ A Python coursework project exploring finite automata, formal languages, and a s
 
 ## Contact
 
-* Email: [nevseevadm@gmail.com(mailto:nevseevadm@gmail.com)
+📧 [nevseevadm@gmail.com](mailto:nevseevadm@gmail.com)
 * Location: Magdeburg, Germany
