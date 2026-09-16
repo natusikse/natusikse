@@ -23,17 +23,18 @@ Key features:
 
 ### [Self-Balancing Tree Benchmark](https://github.com/natusikse/self-balancing-tree-benchmark)
 
+[![C++ CI](https://github.com/natusikse/self-balancing-tree-benchmark/actions/workflows/ci.yml/badge.svg)](https://github.com/natusikse/self-balancing-tree-benchmark/actions/workflows/ci.yml)
+
 A reproducible C++ benchmarking project comparing Binary Search, AVL, and Splay Trees under ordered, randomized, and locality-focused access workloads.
 
 Key features:
 
-- deterministic benchmarks with uniform and hot-key access patterns
+- deterministic uniform and hot-key workloads
 - Splay Tree implementation with zig, zig-zig, and zig-zag rotations
 - automated correctness tests with CTest
 - portable CMake build configuration
 - cross-compiler CI with GCC and Clang
 - CSV result export and performance visualization
-- documented analysis of balancing and temporal locality
 
 ### [English Is Not a Context-Free Language](https://github.com/natusikse/projectTheoryOfAutomata)
 
