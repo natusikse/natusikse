@@ -7,6 +7,7 @@ I am especially interested in building reliable AI integrations that connect lan
 ## Featured Projects
 
 ### [Manufacturing MCP Copilot](https://github.com/natusikse/manufacturing-mcp-copilot)
+[![CI](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml)
 
 An AI integration layer for simulated manufacturing and logistics operations, built with Python and the Model Context Protocol.
 
@@ -19,7 +20,6 @@ Key features:
 * Automated retrieval and integration tests
 * CI on Python 3.11 and 3.13 with GitHub Actions
 
-[![CI](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/natusikse/manufacturing-mcp-copilot/actions/workflows/ci.yml)
 
 ### [Self-Balancing Tree Benchmark](https://github.com/natusikse/self-balancing-tree-benchmark)
 
